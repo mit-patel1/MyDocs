@@ -5,3 +5,5 @@
 ![image](https://github.com/mit-patel1/MyDocs/assets/59383514/ec63f40e-5be3-4767-80b3-e38eda8e9977)
 
 Our ubuntu machine is connected.
+![image](https://github.com/mit-patel1/MyDocs/assets/59383514/0b1ba799-7eed-44d2-84dd-57b23546f670)
+
