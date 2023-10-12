@@ -1,4 +1,4 @@
->**Commit your project code in GIT HUB**
+# **Commit your project code in GIT HUB**
 
 1. First create a repository in Git Hub.
 2. Using Powershell go to your local path where your project is created.
